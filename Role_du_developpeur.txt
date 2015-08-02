@@ -1,0 +1,4 @@
+ Proposez une utilisation journalistique de cette API. Quels renseignements intéressants pourrait-elle permettre d'obtenir ?
+
+Cette API pourrait être utilisée pour vérifier une information. Elle pourait permettre :
+- 
